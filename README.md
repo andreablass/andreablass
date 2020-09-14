@@ -1,4 +1,4 @@
-# <h2> ¡Hi!, I´m Andrea 🙋🏻‍♀️🍒 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2><img align='right' src="https://media.giphy.com/media/PlUVUOWA5K5irc3Scv/giphy.gif" width="230">
+# <h2> ¡Hi!, I´m Andrea 🙋🏻‍♀️🍒 <img src="https://media.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif" width="50"></h2><img align='right' src="https://media.giphy.com/media/PlUVUOWA5K5irc3Scv/giphy.gif" width="230">
 
 
 # Andrea Blass Zamudio
@@ -8,7 +8,7 @@
 
 
 
-  I'm creating my personal website here :D
+  I'm creating my personal website here :D <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2><img align='right'>
   
   ## Find me around the web 🌎: <a href="https://andreablass.github.io/My-personal-website/">My personal WebSite</a>
  
