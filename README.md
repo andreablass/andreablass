@@ -10,11 +10,12 @@
 
 I'm creating my personal website <a href="https://andreablass.github.io/My-personal-website/">here :D</a><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2><img align='right'>
   
-  
  
 
-- Look for me in <a href="https://twitter.com/AndreaBlass11">Twitter</a> 🐣
-- Look for me in <a href="https://www.reddit.com/user/Deaba">Reddit</a> 🤖
+- Look for me in <a href="https://twitter.com/AndreaBlass11">Twitter</a>  <img src="  https://media.giphy.com/media/Q8m694CkAPGhi5sB14/giphy.gif
+" width="50">
+- Look for me in <a href="https://www.reddit.com/user/Deaba">Reddit</a> <a href="https://twitter.com/AndreaBlass11">Twitter</a>  <img src="  https://media.giphy.com/media/Q8m694CkAPGhi5sB14/giphy.gif
+" width="50">
 
 <!--
 **andreablass/andreablass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
