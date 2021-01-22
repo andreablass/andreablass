@@ -1,10 +1,10 @@
-#  ¡Hi!, I´m Andrea  <img src="https://media.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif" width="50"><img align='right' src="https://media.giphy.com/media/PlUVUOWA5K5irc3Scv/giphy.gif" width="230">
+#  ¡Hi!, I´m Andrea  //<img src="https://media.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif" width="50"><img align='right' src="https://media.giphy.com/media/PlUVUOWA5K5irc3Scv/giphy.gif" width="230">
 
 
 
 
  
- Developer in process, lover of technology.   # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+ Developer in process, lover of technology.   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 
 
