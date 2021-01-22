@@ -1,4 +1,4 @@
-#  ¡Hi!, I´m Andrea  <img src="https://media.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif" width="50">
+#  ¡Hello observer, I am Andrea,  <img src="https://media.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif" width="50">
 
 
 
