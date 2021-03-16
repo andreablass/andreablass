@@ -11,7 +11,7 @@ I'm creating my personal website <a href="https://andreablass.github.io/My-perso
   
  
 
-- Look for me in <a href="https://twitter.com/AndreaBlass11">Twitter</a> <img src="https://media.giphy.com/media/lYnZtYFlJzGkYE3CZ8/giphy.gif" width="50">
+- Look for me in <a href="https://twitter.com/@usrdeaba">Twitter</a> <img src="https://media.giphy.com/media/lYnZtYFlJzGkYE3CZ8/giphy.gif" width="50">
 
 
 - Look for me in <a href="https://www.reddit.com/user/Deaba">Reddit</a>  <img src="https://media.giphy.com/media/XBFV7NXTLTDaEGmnqg/giphy.gif" width="50">
