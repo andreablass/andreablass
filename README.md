@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 
 
         
+<!-- Start of banner code -->
+<a href="https://uii.io/ref/andreablass"><img src="https://uii.io/img/referral/300x250.png" title="Make short links and earn the biggest money" /></a>
+<!-- End of banner code -->
+        
