@@ -32,7 +32,5 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- Start of banner code -->
-<a href="https://shrinkearn.com/ref/andreablass"><img src="https://shrinkearn.com/webroot/modern_theme/img/336x280.gif" title="Shorten URLs and Earn Money" /></a>
-<!-- End of banner code -->
+
         
