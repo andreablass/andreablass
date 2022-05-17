@@ -1,7 +1,7 @@
 #  ¡Hello observer, My name's  Andrea!  <img src="https://media.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif" width="50">
 
 
-
+[![Twitter Badge](https://img.shields.io/badge/-@BriannaKeune-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/usrdeaba)](https://twitter.com/usrdeaba) [![Linkedin Badge](https://img.shields.io/badge/-briannakeune-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brianna-keune/)](https://www.linkedin.com/in/brianna-keune/) [![Gmail Badge](https://img.shields.io/badge/-contact@briannakeune.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@briannakeune.com)](mailto:contact@briannakeune.com)
  
  Developer in process, lover of technology.   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
