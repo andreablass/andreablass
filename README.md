@@ -1,7 +1,7 @@
 #  ¡Hello observer, My name's  Andrea!  <img src="https://media.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif" width="50">
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@Usrdeaba-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/usrdeaba)](https://twitter.com/usrdeaba) [![Linkedin Badge](https://img.shields.io/badge/-usrdeaba-green?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-blass-zamudio-3a63441b7//)](https://www.linkedin.com/in/andrea-blass-zamudio-3a63441b7/) [![Gmail Badge](https://img.shields.io/badge/-contact@usrdeaba.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@usrdeaba.com)](mailto:andreablass11@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Usrdeaba-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/usrdeaba)](https://twitter.com/usrdeaba) [![Linkedin Badge](https://img.shields.io/badge/-usrdeaba-green?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-blass-zamudio-3a63441b7//)](https://www.linkedin.com/in/andrea-blass-zamudio-3a63441b7/) [![Gmail Badge](https://img.shields.io/badge/-contact@usrdeaba.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andreablass11@gmail.com)](mailto:andreablass11@gmail.com)
  
  Developer in process, lover of technology.   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
