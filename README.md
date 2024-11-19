@@ -1,38 +1,44 @@
-#  ¡Hello observer, My name's  Andrea!  <img src="https://media.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif" width="50">
+# 👩‍💻 Andrea Blass
 
+Hello! I’m Andrea, a passionate software developer who loves technology, teamwork, and continuous learning. I enjoy working on solutions that optimize processes and improve the user experience, with a focus on sustainability and personal growth.
 
-[![Twitter Badge](https://img.shields.io/badge/-@Usrdeaba-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/usrdeaba)](https://twitter.com/usrdeaba) [![Linkedin Badge](https://img.shields.io/badge/-usrdeaba-purple?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-blass-zamudio-3a63441b7//)](https://www.linkedin.com/in/andrea-blass-zamudio-3a63441b7/) 
- 
- Developer   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+---
 
+## 🌟 About Me
 
+- 🚀 **Role**: Software Developer with experience in automation, data analysis, and designing efficient processes.
+- 🌱 **Interests**: I collaborate as a community leader in initiatives that promote effective communication and sustainable careers in technology.
+- 💡 **Skills**: 
+  - Backend: Node.js, Python
+  - Frontend: React.js, Next.js
+  - Databases: SQL, MongoDB
+- 🌍 **Location**: Tijuana, Baja California *(open to relocation)*
 
-  
- 
+---
 
-<!--
-- Look for me in <a href="https://twitter.com/@usrdeaba">Twitter</a> <img src="https://media.giphy.com/media/lYnZtYFlJzGkYE3CZ8/giphy.gif" width="50">
+## 🌐 Connect with Me
 
+- 🌐 [My Website](https://usrdeaba-klzy-jfdq2hzy5-andreablass-projects.vercel.app/)
+- 🐦 [Twitter](https://x.com/usrdeaba)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrea-blass-3a63441b7/)
 
-- Look for me in <a href="https://www.reddit.com/user/Deaba">Reddit</a>  <img src="https://media.giphy.com/media/XBFV7NXTLTDaEGmnqg/giphy.gif" width="50">
+---
 
+## 💻 Featured Projects
 
-**andreablass/andreablass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [**Project 1**](https://github.com): Brief description of the project and its impact.
+- [**Project 2**](https://github.com): Brief description of the project and its impact.
+- [**Project 3**](https://github.com): Brief description of the project and its impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
 
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=usrdeaba&show_icons=true&theme=radical)
 
+---
 
+Thanks for visiting my profile! 💙 Feel free to explore my repositories and connect with me.
         
 
         
