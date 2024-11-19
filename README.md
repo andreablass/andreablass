@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning more about **Web Development**  
 💬 Collaborator and **Community Lead** in the [Pathways Community](https://oscarswanros.com/comunidad/)  
-🎻࿔🍂 Fun fact: I'm a **Cello enthusiast ** in my free time.
+🎻࿔🍂 Fun fact: I'm a **Cello enthusiast** in my free time.
 
 ---
 
@@ -13,13 +13,12 @@
 ---
 
 # 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23F06292.svg?style=flat&logo=java&logoColor=white)  
+![Ruby](https://img.shields.io/badge/ruby-%23F06292.svg?style=flat&logo=ruby&logoColor=white)  
+![SQL](https://img.shields.io/badge/sql-%23F06292.svg?style=flat&logo=MySQL&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23F06292.svg?style=flat&logo=github&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%23F06292.svg?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=flat&logo=typescript&logoColor=%23007ACC)  
-![HTML5](https://img.shields.io/badge/html5-%23F06292.svg?style=flat&logo=html5&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next-%23F06292.svg?style=flat&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23F06292.svg?style=flat&logo=html5&logoColor=white)
 
 ---
 
@@ -27,5 +26,12 @@
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreablass&theme=ambient_gradient&show_icons=true)
 
 ---
-Thanks for checking out my profile! Feel free to connect or ask me about anything related to tech, development, or my Twitch streams. Let’s build something amazing together! 🚀💖
 
+## 💡 Featured Projects:
+- **[Project 1](https://github.com/your_project_link)**: A user-friendly web application built with **Java** and **Ruby**.
+- **[Project 2](https://github.com/your_project_link)**: A full-stack **SQL** app that integrates with **GitHub** for version control.
+- **[Project 3](https://github.com/your_project_link)**: A sustainable tech project utilizing **HTML5** and **CSS3** for a polished UI.
+
+---
+
+I appreciate you taking the time to check out my profile! If you'd like to connect, collaborate, or discuss ideas around **web development** or **community leadership**, feel free to reach out. Let's build something impactful together! 💖🚀
