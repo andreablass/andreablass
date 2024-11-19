@@ -7,8 +7,8 @@
 ---
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/-X-%23E4405F.svg?logo=Twitter&logoColor=white)](https://x.com/usrdeaba)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23E4405F.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andrea-blass-3a63441b7/)  
+[![X](https://img.shields.io/badge/X-%23F06292.svg?logo=X&logoColor=white)](https://x.com/usrdeaba)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23F06292.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andrea-blass-3a63441b7/)  
 [![Website](https://img.shields.io/badge/-Website-%23F06292.svg?logo=CodePen&logoColor=white)](https://usrdeaba-klzy-jfdq2hzy5-andreablass-projects.vercel.app/)
 
 ---
