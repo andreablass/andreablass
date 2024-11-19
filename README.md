@@ -25,16 +25,8 @@
 ---
 
 # 📊 GitHub Stats:
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreablass&theme=radical&show_icons=true)
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreablass&theme=ambient_gradient&show_icons=true)
 
 ---
-
-## 💡 Featured Projects:
-- **[Project 1](https://github.com/your_project_link)**: A user-friendly web application built with **React.js** and **TailwindCSS**.
-- **[Project 2](https://github.com/your_project_link)**: A full-stack **Node.js** app that integrates with **MongoDB** for data storage.
-- **[Project 3](https://github.com/your_project_link)**: An innovative project focused on creating **sustainable tech solutions** with **AWS**.
-
----
-
 Thanks for checking out my profile! Feel free to connect or ask me about anything related to tech, development, or my Twitch streams. Let’s build something amazing together! 🚀💖
 
