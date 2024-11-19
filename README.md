@@ -1,7 +1,8 @@
 # 🌸 A Little About Me
 🌱 I’m currently learning more about **Web Development**  
 💬 Collaborator and **Community Lead** in the [Pathways Community](https://oscarswanros.com/comunidad/)  
-🎻࿔🍂 Fun fact: I'm a **Cello enthusiast** in my free time.
+🎻࿔🍂 Fun fact: I'm a **Cello enthusiast** in my free time. Aquí tienes lo que me pediste:
+🎻࿔🍂 Fun fact: I'm a **Cello enthusiast** in my free time, as a contrast, love **metal music**! 🤘🎸🎶
 
 ## 🌐 Socials: 
 [![X](https://img.shields.io/badge/X-%23F06292.svg?logo=X&logoColor=white)](https://x.com/usrdeaba) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23F06292.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andrea-blass-3a63441b7/) [![Website](https://img.shields.io/badge/-Website-%23F06292.svg?logo=CodePen&logoColor=white)](https://usrdeaba-klzy-jfdq2hzy5-andreablass-projects.vercel.app/)
