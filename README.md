@@ -1,53 +1,42 @@
-# 👋 Hi there! I'm Andrea Blass
-
-I'm a passionate **Software Developer** with a love for **creative design** and **sustainable growth** in technology. I focus on building efficient and user-friendly solutions.
-
-![Andrea Blass](https://media.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif)
-
-## 🚀 About Me
-
-- 🔭 **Currently working on**: Full-stack development using **Node.js**, **React.js**, and **Next.js**.
-- 🌱 **Currently learning**: More advanced techniques in **cloud computing** and **machine learning**.
-- 👯 **Looking to collaborate on**: Open-source projects, **sustainable tech solutions**, and **design systems**.
-- 💬 **Ask me about**: My experience with **automating processes** and **user experience**.
-- 📫 **How to reach me**: [Twitter](https://twitter.com/usrdeaba) | [LinkedIn](https://www.linkedin.com/in/andrea-blass-zamudio-3a63441b7/)
+# 💫 About Me:
+🔭 I’m currently a **Frontend Developer**  
+🌱 I’m currently learning more about **Fullstack Development**  
+💬 **Tech Content Creator**  
+⚡ Fun fact: I'm a **Twitch streamer** in my free time.
 
 ---
 
-## 🛠️ Technologies & Tools
-
-- **Frontend**: React.js, Next.js, HTML5, CSS3, SASS
-- **Backend**: Node.js, Express, Python
-- **Databases**: SQL, MongoDB
-- **Tools**: Git, GitHub, Docker, Jenkins
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coding_byanna) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@coding_byanna) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/coding_byanna) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/coding_byanna)
 
 ---
 
-## 🔗 Connect with Me
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=flat&logo=typescript&logoColor=%23007ACC)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)  
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-[![Twitter Badge](https://img.shields.io/badge/-@Usrdeaba-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/usrdeaba)](https://twitter.com/usrdeaba)
-[![Linkedin Badge](https://img.shields.io/badge/-usrdeaba-purple?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-blass-zamudio-3a63441b7//)](https://www.linkedin.com/in/andrea-blass-zamudio-3a63441b7/)
-[![Website](https://img.shields.io/badge/-Website-black?style=flat&logo=googlechrome&logoColor=white&link=https://usrdeaba-klzy-jfdq2hzy5-andreablass-projects.vercel.app/)](https://usrdeaba-klzy-jfdq2hzy5-andreablass-projects.vercel.app/)
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=usrdeaba&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
 
 ---
 
 ## 💡 Featured Projects
-
-### [**Project 1**](https://github.com):  
-A creative web app that connects users through a beautiful UI and dynamic features.
-
-### [**Project 2**](https://github.com):  
-A backend solution that streamlines data processing and improves efficiency.
-
-### [**Project 3**](https://github.com):  
-A sustainable tech initiative that helps developers grow while respecting the planet.
+- **[Project 1](https://github.com/your_project_link)**: A user-friendly web application built with **React.js** and **TailwindCSS**.
+- **[Project 2](https://github.com/your_project_link)**: A full-stack **Node.js** app that integrates with **MongoDB** for data storage.
+- **[Project 3](https://github.com/your_project_link)**: An innovative project focused on creating **sustainable tech solutions** with **AWS**.
 
 ---
 
-## 📊 GitHub Stats
-
-![Andrea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usrdeaba&show_icons=true&theme=radical)
-
----
-
-Thanks for visiting my profile! 🚀 Let's collaborate and build something amazing together! 💙
+Thanks for checking out my profile! Feel free to connect or ask me about anything related to tech, development, or my Twitch streams. Let's build something great together! 🚀💙
