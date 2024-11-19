@@ -1,8 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently a **Frontend Developer**  
 🌱 I’m currently learning more about **Web Development**  
 💬 Collaborator and **Community Lead** in the [Pathways Community](https://oscarswanros.com/comunidad/)  
-⚡ Fun fact: I'm a **Twitch streamer** in my free time.
+🎻࿔🍂 Fun fact: I'm a **Cello enthusiast ** in my free time.
 
 ---
 
