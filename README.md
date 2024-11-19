@@ -10,7 +10,7 @@
 ![Java](https://img.shields.io/badge/java-%234A90E2.svg?style=flat&logo=java&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23D32F2F.svg?style=flat&logo=ruby&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%234CAF50.svg?style=flat&logo=MySQL&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%232C2C2C.svg?style=flat&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%23FBC02D.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%234A148C.svg?style=flat&logo=html5&logoColor=white)
 
 # 📊 GitHub Stats: 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreablass&theme=buefy&show_icons=true)
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreablass&theme=buefy&show_icons=true&title_color=%23F06292&text_color=%23F06292)
 
 ---
 
