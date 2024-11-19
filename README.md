@@ -1,7 +1,6 @@
 # 🌸 A Little About Me
 🌱 I’m currently learning more about **Web Development**  
 💬 Collaborator and **Community Lead** in the [Pathways Community](https://oscarswanros.com/comunidad/)  
-🎻࿔🍂 Fun fact: I'm a **Cello enthusiast** in my free time. Aquí tienes lo que me pediste:
 🎻࿔🍂 Fun fact: I'm a **Cello enthusiast** in my free time, as a contrast, love **metal music**! 🤘🎸🎶
 
 ## 🌐 Socials: 
