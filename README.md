@@ -28,7 +28,7 @@
 ---
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreablass&theme=ambient_gradient=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreablass&theme=ambient_gradient&show_icons=true)
 ---
 
 ## 💡 Featured Projects
