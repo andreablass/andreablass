@@ -1,48 +1,53 @@
-# 👋 ¡Hola observador! Mi nombre es Andrea! <img src="https://media.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif" width="50">
+# 👋 Hi there! I'm Andrea Blass
 
-Soy **Desarrolladora de Software** con una pasión por la tecnología, el diseño y la sostenibilidad. Estoy enfocada en construir soluciones creativas y eficaces que impacten positivamente a la comunidad.
+I'm a passionate **Software Developer** with a love for **creative design** and **sustainable growth** in technology. I focus on building efficient and user-friendly solutions.
+
+![Andrea Blass](https://media.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif)
+
+## 🚀 About Me
+
+- 🔭 **Currently working on**: Full-stack development using **Node.js**, **React.js**, and **Next.js**.
+- 🌱 **Currently learning**: More advanced techniques in **cloud computing** and **machine learning**.
+- 👯 **Looking to collaborate on**: Open-source projects, **sustainable tech solutions**, and **design systems**.
+- 💬 **Ask me about**: My experience with **automating processes** and **user experience**.
+- 📫 **How to reach me**: [Twitter](https://twitter.com/usrdeaba) | [LinkedIn](https://www.linkedin.com/in/andrea-blass-zamudio-3a63441b7/)
 
 ---
 
-## 📲 **Conéctate conmigo**:
+## 🛠️ Technologies & Tools
+
+- **Frontend**: React.js, Next.js, HTML5, CSS3, SASS
+- **Backend**: Node.js, Express, Python
+- **Databases**: SQL, MongoDB
+- **Tools**: Git, GitHub, Docker, Jenkins
+
+---
+
+## 🔗 Connect with Me
 
 [![Twitter Badge](https://img.shields.io/badge/-@Usrdeaba-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/usrdeaba)](https://twitter.com/usrdeaba)
 [![Linkedin Badge](https://img.shields.io/badge/-usrdeaba-purple?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-blass-zamudio-3a63441b7//)](https://www.linkedin.com/in/andrea-blass-zamudio-3a63441b7/)
+[![Website](https://img.shields.io/badge/-Website-black?style=flat&logo=googlechrome&logoColor=white&link=https://usrdeaba-klzy-jfdq2hzy5-andreablass-projects.vercel.app/)](https://usrdeaba-klzy-jfdq2hzy5-andreablass-projects.vercel.app/)
 
 ---
 
-## 💻 **Sobre mí**:
+## 💡 Featured Projects
 
-- **Rol**: Desarrolladora Full Stack con un enfoque en **Backend** y **Frontend**.
-- **Pasión**: Me encanta crear experiencias de usuario sencillas pero impactantes. 
-- **Tecnologías que uso**:
-    - **Frontend**: React.js, Next.js
-    - **Backend**: Node.js, Python
-    - **Bases de datos**: SQL, MongoDB
-- 🌍 **Ubicación**: Tijuana, Baja California *(dispuesta a reubicarme)*
+### [**Project 1**](https://github.com):  
+A creative web app that connects users through a beautiful UI and dynamic features.
 
----
+### [**Project 2**](https://github.com):  
+A backend solution that streamlines data processing and improves efficiency.
 
-## 🚀 **Lo que estoy haciendo**:
-
-- 💻 **Desarrollando** aplicaciones web interactivas y eficientes.
-- 🤝 **Colaborando** con equipos de tecnología para crear soluciones sostenibles.
-- 🌱 **Aprendiendo** nuevas herramientas y técnicas para mejorar mi trabajo.
+### [**Project 3**](https://github.com):  
+A sustainable tech initiative that helps developers grow while respecting the planet.
 
 ---
 
-## 🔗 **Encuentra más sobre mis proyectos**:
+## 📊 GitHub Stats
 
-- [**Proyecto 1**](https://github.com): Una app web creativa que conecta usuarios a través de una UI atractiva.
-- [**Proyecto 2**](https://github.com): Solución backend que optimiza el procesamiento de datos y mejora la eficiencia.
-- [**Proyecto 3**](https://github.com): Iniciativa sostenible en tecnología para apoyar el desarrollo respetuoso con el medio ambiente.
+![Andrea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usrdeaba&show_icons=true&theme=radical)
 
 ---
 
-## 💡 **Estadísticas de GitHub**:
-
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=usrdeaba&show_icons=true&theme=radical)
-
----
-
-¡Gracias por visitar mi perfil! 🌟 Si te interesa colaborar o aprender más, ¡estoy a tu disposición!
+Thanks for visiting my profile! 🚀 Let's collaborate and build something amazing together! 💙
