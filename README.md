@@ -10,7 +10,7 @@
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreablass&theme=buefy&show_icons=true&count_private=true&title_color=f00c8c&text_color=852966&icon_color=fa87d4)
 
 ## 🌐 Socials: 
-[![X](https://img.shields.io/badge/X-%23F06292.svg?logo=X&logoColor=white)](https://x.com/usrdeaba) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23F06292.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andrea-blass-3a63441b7/) [![Website](https://img.shields.io/badge/-Website-%23F06292.svg?logo=CodePen&logoColor=white)](https://usrdeaba-klzy-jfdq2hzy5-andreablass-projects.vercel.app/)
+[![X](https://img.shields.io/badge/X-%23F06292.svg?logo=X&logoColor=white)](https://x.com/usrdeaba) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23F06292.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andrea-blass-3a63441b7/) 
 
 ---
 
