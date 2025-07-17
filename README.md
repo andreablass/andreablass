@@ -44,7 +44,7 @@
 
 ## 🌐 Encuéntrame  
 
-[![Website](https://img.shields.io/badge/Website-AndreaBlass-f3bede?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=f7d3e9)](https://andreablass.com)[![Twitter](https://img.shields.io/badge/Twitter-@usrdeaba-c8f5bd?style=for-the-badge&logo=twitter&logoColor=white&labelColor=e3fade)](https://x.com/usrdeaba)[![LinkedIn](https://img.shields.io/badge/LinkedIn-AndreaBlass-C6B6F4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=d7cbf7)](https://www.linkedin.com/in/andrea-blass-3a63441b7/)[![Blog](https://img.shields.io/badge/Blog-AndreaBlass-F9E49A?style=for-the-badge&logo=astro&logoColor=white&labelColor=fcf1cc)](https://blog.andreablass.com)  
+[![Website](badge&logo=googlechrome&logoColor=white&labelColor=f7d3e9)](https://andreablass.com)[![Twitter](https://img.shields.io/badge/Twitter-@usrdeaba-c8f5bd?style=for-the-badge&logo=twitter&logoColor=white&labelColor=e3fade)](https://x.com/usrdeaba)[![LinkedIn](https://img.shields.io/badge/LinkedIn-AndreaBlass-C6B6F4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=d7cbf7)](https://www.linkedin.com/in/andrea-blass-3a63441b7/)[![Blog](https://img.shields.io/badge/Blog-AndreaBlass-F9E49A?style=for-the-badge&logo=astro&logoColor=white&labelColor=fcf1cc)](https://blog.andreablass.com)  
 
 ---
 
