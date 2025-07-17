@@ -3,23 +3,35 @@
 ## 🌸 Un poco sobre mí  
 🌱 Actualmente estoy aprendiendo más sobre **Desarrollo Web Fullstack**  
 💬 Colaboradora y **Community Lead** en la [Comunidad Pathways](https://oscarswanros.com/comunidad/)  
-🎻࿔🍂 Curiosidad y creatividad me definen. Soy una entusiasta del **cello** y, en contraste, me encanta el **metal**! 🤘🎸🎶  
+🎻࿔🍂 Curiosa y creativa, entusiasta del **cello** y amante del **metal**! 🤘🎸🎶  
 📚 Me encanta aprender, leer y combinarlo con música para inspirarme.  
 💪 Aprendiendo a ser muy disciplinada en mi camino como desarrolladora.
 
 ---
 
-## 💻 Stack Tecnológico  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
-![Kirby CMS](https://img.shields.io/badge/Kirby-C7393B?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMTIgMTIiPjxwYXRoIGQ9Ik0xLjY2IDMuNDcgMy4zMyAzLjI3bC41NiAyLjI1TDMuMSA1LjhsMi44OS0xLjgyLS41Ni0yLjI1TDcuNjMgMi4xNyA1Ljg3IDMuMzZsLS41Ni0yLjI1IDEuNzUtMS4xMyAyLjM4IDIuMjdsLS41NiAyLjI0IDEuNzQgMS4xMiAyLjI1LTIuMzkgLjMyIDIuMTFIMTYuODhsLS44Ni0xLjE4bC0yLjI1IDEuMDYuNjIgMi4zMS01LjMzIDMuNjMtLjgxLS42OC4yMy0xLjE1em0zLjAzLjA4IDMuNjkgMi4yNi0uMzYgMi4xLS40MiAxLjUxIDEuNzUtLjg4IDAuMTQgMi4xOC0yLjYzLS4yOS0yLjI0LTIuNDUtMS44MiIvPjwvc3ZnPg==)  
-![Vue.js](https://img.shields.io/badge/vue-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)  
-![Alpine.js](https://img.shields.io/badge/alpinejs-%2335495e.svg?style=flat&logo=alpine.js&logoColor=white)  
-![Vite](https://img.shields.io/badge/vite-%234bc0c7.svg?style=flat&logo=vite&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
-![Ruby](https://img.shields.io/badge/ruby-%23D32F2F.svg?style=flat&logo=ruby&logoColor=white)  
-![SQL](https://img.shields.io/badge/sql-%234CAF50.svg?style=flat&logo=MySQL&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%232C2C2C.svg?style=flat&logo=git&logoColor=white)  
+## 💻 Stack Tecnológico
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kirby" height="40" alt="kirby cms logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=alpine" height="40" alt="alpinejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="sql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+</div>
 
 ---
 
@@ -28,11 +40,15 @@
 
 ---
 
-## 🌐 Encuéntrame en  
-[![X (Twitter)](https://img.shields.io/badge/X-%23F06292.svg?logo=X&logoColor=white)](https://x.com/usrdeaba)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23F06292.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andrea-blass-3a63441b7/)  
-[![Blog](https://img.shields.io/badge/Blog-%23F06292.svg?style=flat&logo=astro&logoColor=white)](https://tu-blog-aqui.com)  
+## 🌐 Encuéntrame  
+
+[![Website](https://img.shields.io/badge/Website-AndreaBlass-F7C6D0?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=FBE9F4)](https://andreablass.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-@usrdeaba-F4B6C2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=FCE7F0)](https://x.com/usrdeaba)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AndreaBlass-C6B6F4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=EEE9FB)](https://www.linkedin.com/in/andrea-blass-3a63441b7/)  
+[![Blog](https://img.shields.io/badge/Blog-AndreaBlass-F9E49A?style=for-the-badge&logo=astro&logoColor=white&labelColor=FFF9E0)](https://blog.andreablass.com)  
 
 ---
 
-Gracias por visitar mi perfil! Si quieres conectar, colaborar o platicar sobre desarrollo web o liderazgo comunitario, ¡escríbeme! 🚀💖
+## ✉️ Contacto  
+
+[![Email](https://img.shields.io/badge/andrea.blass@email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FBE9F4)](mailto:andrea.blass@email.com)
