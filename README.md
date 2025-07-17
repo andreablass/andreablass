@@ -53,4 +53,5 @@
 
 ## ✉️ Contacto  
 
-[![Email](https://img.shields.io/badge/andrea.blass@email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=aa859b)](mailto:hello@andreablass.com)
+[![Email](https://img.shields.io/badge/andrea.blass@email-6666FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E6E6FF)](mailto:hello@andreablass.com)
+
