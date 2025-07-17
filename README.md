@@ -14,11 +14,11 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kirby" height="40" alt="kirby cms logo" />
+  <img src="https://skillicons.dev/icons?i=pinia" height="40" alt="pinia logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=alpine" height="40" alt="alpinejs logo" />
+  <img src="https://skillicons.dev/icons?i=alpinejs" height="40" alt="alpinejs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
   <img width="12" />
@@ -28,7 +28,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="sql logo" />
+  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="rails logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
 </div>
