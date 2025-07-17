@@ -1,15 +1,15 @@
-# ¡Hola! Soy Andrea Blass 👋
+# Hi! I'm Andrea Blass 👋
 
-## 🌸 Un poco sobre mí  
-🌱 Actualmente estoy aprendiendo más sobre **Desarrollo Web Fullstack**  
-💬 Colaboradora y **Community Lead** en la [Comunidad Pathways](https://oscarswanros.com/comunidad/)  
-🎻࿔🍂 Curiosa y creativa, entusiasta del **cello** y amante del **metal**! 🤘🎸🎶  
-📚 Me encanta aprender, leer y combinarlo con música para inspirarme.  
-💪 Aprendiendo a ser muy disciplinada en mi camino como desarrolladora.
+## 🌸 A little about me  
+🌱 I’m currently learning more about **Fullstack Web Development**  
+💬 Collaborator and **Community Lead** at the [Pathways Community](https://oscarswanros.com/comunidad/)  
+🎻࿔🍂 Curious and creative, cello enthusiast and a huge fan of **metal music**! 🤘🎸🎶  
+📚 I love learning, reading, and pairing it with music for inspiration.  
+💪 On a journey to become more disciplined as a developer.
 
 ---
 
-## 💻 Stack Tecnológico
+## 💻 Tech Stack
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
@@ -37,18 +37,22 @@
 
 ---
 
-## 📊 Mis Stats en GitHub  
-![Estadísticas de Andrea](https://github-readme-stats.vercel.app/api?username=andreablass&theme=buefy&show_icons=true&count_private=true&title_color=f00c8c&text_color=852966&icon_color=fa87d4)
+## 📊 GitHub Stats  
+![Andrea’s GitHub stats](https://github-readme-stats.vercel.app/api?username=andreablass&theme=buefy&show_icons=true&count_private=true&title_color=f00c8c&text_color=852966&icon_color=fa87d4)
 
 ---
 
-## 🌐 Encuéntrame  
+## 🌐 Find me  
 
-[![Website](https://img.shields.io/badge/Website-AndreaBlass-f3bede?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000)](https://andreablass.com)[![Twitter](https://img.shields.io/badge/Twitter-@usrdeaba-c8f5bd?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://x.com/usrdeaba)[![LinkedIn](https://img.shields.io/badge/LinkedIn-AndreaBlass-C6B6F4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/andrea-blass-3a63441b7/)[![Blog](https://img.shields.io/badge/Blog-AndreaBlass-F9E49A?style=for-the-badge&logo=astro&logoColor=white&labelColor=000000)](https://blog.andreablass.com)  
+[![Website](https://img.shields.io/badge/Website-AndreaBlass-f3bede?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000)](https://andreablass.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@usrdeaba-c8f5bd?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://x.com/usrdeaba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AndreaBlass-C6B6F4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/andrea-blass-3a63441b7/)
+[![Blog](https://img.shields.io/badge/Blog-AndreaBlass-F9E49A?style=for-the-badge&logo=astro&logoColor=white&labelColor=000000)](https://blog.andreablass.com)  
 
 ---
 
-## ✉️ Contacto  
+## ✉️ Contact  
 
 [![Email](https://img.shields.io/badge/andrea@gmail-6666FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c1c1ff)](mailto:hello@andreablass.com)
+
 
