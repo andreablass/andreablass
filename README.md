@@ -1,6 +1,6 @@
 # Hi! I'm Andrea Blass 👋
 
-## 🌸 A little about me  
+## 🌸 A little about me 🌸
 🌱 I’m currently learning more about **Fullstack Web Development**  
 💬 Collaborator and **Community Lead** at the [Pathways Community](https://oscarswanros.com/comunidad/)  
 🎻࿔🍂 Curious and creative, cello enthusiast and a huge fan of **metal music**! 🤘🎸🎶  
