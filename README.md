@@ -3,7 +3,7 @@
 ## 🌸 A little about me 🌸
 🌱 I’m currently learning more about **Fullstack Web Development**  
 💬 Collaborator and **Community Lead** at the [Pathways Community](https://oscarswanros.com/comunidad/)  
-🎻࿔🍂 Curious and creative, cello enthusiast and a huge fan of **metal music**! 🤘🎸🎶  
+🎻࿔🍂 Curious and creative, cello enthusiast and a huge fan of **metal music**! 🤘
 📚 I love learning, reading, and pairing it with music for inspiration.  
 💪 On a journey to become more disciplined as a developer.
 
